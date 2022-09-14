@@ -4,6 +4,7 @@
   <title>Tabla PHP</title>
 </head>
 <body>
+  <h1>Título de la tabla</h1>
   <table>
   <tr>
     <th>Fecha</th>
