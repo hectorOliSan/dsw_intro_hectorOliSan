@@ -5,6 +5,7 @@
 </head>
 <body>
   <h1>Título de la tabla</h1>
+  <h2>Línea modificada por <b>Héctor</b></h2>
   <table>
   <tr>
     <th>Fecha</th>
